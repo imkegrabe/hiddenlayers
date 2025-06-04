@@ -1,4 +1,4 @@
 # hiddenlayers
-supplementary Material [coming soon]
+supplementary material [coming soon]
 
 ![](images/teaser.gif)
