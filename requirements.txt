@@ -1,0 +1,7 @@
+numpy<2
+scipy
+visdom
+h5py
+nevergrad
+pytorch 2.1.2
+anaconda3
