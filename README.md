@@ -1,13 +1,13 @@
-# HIDDEN LAYERS: A GAN-based Prototype Generating Fashion Imagery
+# HIDDEN LAYERS: A GAN-based Prototype for Interacting with the Internal Semantics of Image Synthesis
 
 Supplementary material for the forthcoming publications:
 
 **Imke Grabe & Tom Jenkins**  
-*Hidden Layer Interaction: A Technique to Explore the Material of Generative AI*  
+[*Hidden Layer Interaction: A Technique to Explore the Material of Generative AI*](https://dl.acm.org/doi/abs/10.1145/3715336.3735437)
 ACM DIS ‘25, July 5–9, 2025, Funchal, Portugal
 
 **Imke Grabe, Jaden Fiotto-Kaufman, David Bau, and Tom Jenkins**  
-*Hidden Layers: An Interactive Installation for Exploring the Neural Semantics of Image Synthesis*  
+[*Hidden Layers: An Interactive Installation for Exploring the Neural Semantics of Image Synthesis*](https://dl.acm.org/doi/full/10.1145/3737609.3747108)
 Adjunct proceedings of the Sixth Decennial Aarhus Conference: Computing X Crisis (AAR Adjunct 2025)
 
 ---
